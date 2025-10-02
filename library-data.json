@@ -1,0 +1,176 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "isAvailable": true,
+      "coverImage": "/images/great.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "isAvailable": true,
+      "coverImage": "/images/kill.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "isAvailable": true,
+      "coverImage": "/images/1984.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "isAvailable": true,
+      "coverImage": "/image/pride.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "isAvailable": true,
+      "coverImage": "/image/hobit.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "genre": "Non-Fiction",
+      "isAvailable": true,
+      "coverImage": "/image/sapiens.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "genre": "Mystery",
+      "isAvailable": true,
+      "coverImage": "/image/davinci"
+    },
+    {
+      "id": 8,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Sci-Fi",
+      "isAvailable": true,
+      "coverImage": "/image/dune.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Becoming",
+      "author": "Michelle Obama",
+      "genre": "Biography",
+      "isAvailable": true,
+      "coverImage": "/image/michelle.jpeg"
+    },
+    {
+      "id": 10,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "isAvailable": true,
+      "coverImage": "/image/catcher.jpeg"
+    },
+    {
+      "id": 11,
+      "title": "Harry Potter and the Sorcerer’s Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "isAvailable": true,
+      "coverImage": "/image/harry.jpeg"
+    },
+    {
+      "id": 12,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "isAvailable": true,
+      "coverImage": "/image/alchemist.jpeg"
+    },
+    {
+      "id": 13,
+      "title": "Educated",
+      "author": "Tara Westover",
+      "genre": "Memoir",
+      "isAvailable": true,
+      "coverImage": "/image/educated.jpeg"
+    },
+    {
+      "id": 14,
+      "title": "The Shining",
+      "author": "Stephen King",
+      "genre": "Horror",
+      "isAvailable": true,
+      "coverImage": "/image/shining.jpeg"
+    },
+    {
+      "id": 15,
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "genre": "Non-Fiction",
+      "isAvailable": true,
+      "coverImage": "/image/thinking.jpeg"
+    },
+    {
+      "id": 16,
+      "title": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "genre": "Thriller",
+      "isAvailable": true,
+      "coverImage": "/image/train.jpeg"
+    },
+    {
+      "id": 17,
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "genre": "Fiction",
+      "isAvailable": true,
+      "coverImage": "/image/lord.jpeg"
+    },
+    {
+      "id": 18,
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "genre": "Sci-Fi",
+      "isAvailable": true,
+      "coverImage": "/image/martian.jpeg"
+    },
+    {
+      "id": 19,
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "genre": "Science",
+      "isAvailable": true,
+      "coverImage": "/image/history.jpeg"
+    },
+    {
+      "id": 20,
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "genre": "Thriller",
+      "isAvailable": true,
+      "coverImage": "/image/gone.jpeg"
+    }
+  ],
+  "users": [
+    {
+      "username": "Vic",
+      "password": "vic123",
+      "role": "user"
+    },
+    {
+      "username": "opeyemi",
+      "password": "ope123",
+      "role": "librarian"
+    }
+  ]
+}
