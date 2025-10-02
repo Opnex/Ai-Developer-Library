@@ -168,8 +168,8 @@
       "role": "user"
     },
     {
-      "username": "opeyemi",
-      "password": "ope123",
+      "username": "librarian",
+      "password": "lib123",
       "role": "librarian"
     }
   ]
